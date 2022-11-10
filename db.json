@@ -1,0 +1,88 @@
+{
+  "Principais-Bebidas": [
+    {
+      "id": 1,
+      "nome": "Heineken",
+      "tipo": "Long Neck",
+      "preço: R$": 10.00,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_638323-MLB49122067825_022022-O.webp"
+    },
+    {
+      "id":2,
+      "nome": "Budweiser",
+      "tipo": "Long Neck",
+      "preço: R$": 8.00,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_758283-MLB48829390945_012022-O.webp"
+    },
+    {
+      "id":3,
+      "nome": "Corona",
+      "tipo": "Long Neck",
+      "preço: R$": 11.00,
+      "imagem": "https://a-static.mlcdn.com.br/800x560/cerveja-longneck-corona-06x330ml-ambev/aguaja/435/dbb9b5cd862dbe309c8a02b4d8f881b7.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Stella Artois",
+      "tipo": "Long Neck",
+      "preço: R$": 12.00,
+      "imagem": "https://a-static.mlcdn.com.br/800x560/cerveja-stella-artois-long-neck-06x330ml-ambev/aguaja/374/2bf1abbed69be35e68814a15864f951d.jpg"
+    }
+  ],
+  "Principais-Petiscos": [
+    {
+      "id": 1,
+      "nome": "Pizza (fatia)",
+      "preço": 5.00,
+      "imagem": "https://th.bing.com/th/id/R.5adecb6b7a9983e001cbf30d6c2af98d?rik=8xAm3BhxmfvFBw&riu=http%3a%2f%2fveganagente.com.br%2fwp-content%2fuploads%2f2016%2f08%2ffatia-de-pizza-de-calabresa.jpg&ehk=rgFGfUV2XScNCd%2bRwizY87%2bxMCfUE8usw42Q01BeCeU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 2,
+      "nome": "Frango (porção com 10)",
+      "preço": 20.00,
+      "imagem": "https://img.freepik.com/fotos-gratis/porcao-de-frango-frito-na-placa-de-pedra-preta_208861-5509.jpg?size=338&ext=jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Calabresa (porção com 20)",
+      "preço": 17.00,
+      "imagem": "https://4.bp.blogspot.com/-kftmIqI7oYc/T_sPNusZASI/AAAAAAAAAXg/TvjHpNZLyPw/s280/DSC05945.JPG"
+    },
+    {
+      "id": 4,
+      "nome": "Queijos (porção com 30)",
+      "preço": 15.00,
+      "imagem": "https://bagueterietoulouse.com.br/wp-content/uploads/2016/08/image91-360x227.jpg"
+    }
+  ],
+  "Bebidas-Quentes": [
+    {
+      "id": 1,
+      "nome": "Whisky",
+      "tipo": "Copo (shot)",
+      "preço: R$": 7.00,
+      "imagem": "https://th.bing.com/th/id/OIP.ws2w-AYq389hE0jLpmjrwAHaHZ?pid=ImgDet&rs=1"
+    },
+    {
+      "id": 2,
+      "nome": "Vodka",
+      "tipo": "Copo (shot)",
+      "preço: R$": 4.00,
+      "imagem": "https://th.bing.com/th/id/R.74e9b5fbf7070a7712c244e8816d2e73?rik=It6quW5uNX2Hig&pid=ImgRaw&r=0"
+    },
+    {
+      "id": 3,
+      "nome": "Rum",
+      "tipo": "Copo (shot)",
+      "preço: R$": 5.00,
+      "imagem": "https://conteudo.imguol.com.br/2014/11/11/zacapa-old-fashioned-1415733964996_300x300.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Gin",
+      "tipo": "Copo (shot)",
+      "preço: R$": 6.00,
+      "imagem": "https://th.bing.com/th/id/OIP.QYoW0W1SMDblMDHUZkaUXAAAAA?pid=ImgDet&rs=1"
+    }
+  ]
+}
